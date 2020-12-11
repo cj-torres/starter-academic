@@ -17,14 +17,25 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "PhD Student"
+  company = "University of California, Irvine"
+  company_url = ""
+  location = "Irvine, California"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = "TAing and Researching in the Language Sciences department."
+
 [[experience]]
   title = "Researcher"
   company = "University of Arizona, Linguistics Department"
   company_url = ""
-  location = "California"
+  location = "Tucson, Arizona"
   date_start = "2019-12-01"
-  date_end = "2020-8-01"
-  description = """Worked briefly in Masha Fedzechkina's lab running artificial language experiments"""
+  date_end = "2020-08-01"
+  description = """Worked briefly in Masha Fedzechkina's lab running artificial language experiments.
+
   Responsibilities include:
 
   * Creating Experiments
@@ -32,13 +43,6 @@ date_format = "Jan 2006"
   * Analysing Data
   """
 
-[[experience]]
-  title = "PhD Student"
-  company = "University of California, Irvine"
-  company_url = ""
-  location = "California"
-  date_start = "2020-10-01"
-  date_end = ""
-  description = """
+
 
 +++
